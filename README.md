@@ -69,10 +69,3 @@ results/
 FINAL_REPORT.md         - rezultatų suvestinė + kiekvieno egzamino punkto atitikimas
 AI_USAGE_LOG.md          - AI naudojimo žurnalas (egzamino reikalavimas)
 ```
-
-## Gyvo gynimo dalis
-
-`run_all.py` neapima gyvo gynimo (nematyto dėstytojo bandymo paleidimo,
-nedidelio pakeitimo demonstravimo) — tai reikalauja studento asmeninio
-dalyvavimo ir negali būti atlikta iš anksto. Žr. `FINAL_REPORT.md`
-paskutinį skyrių.
